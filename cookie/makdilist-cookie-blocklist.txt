@@ -1,2 +1,6 @@
 ||consent.citizensadvisors.com^
 @@||privacyportal-cdn.onetrust.com^*/privacy-notices/
+@@||cdn.iubenda.com/iubenda.js$script
+@@||iubenda.com/privacy-policy/
+@@||iubenda.com/assets/privacy_policy.css$stylesheet
+@@||cdn.certus.com/global/js/privacypolicy.js$script
